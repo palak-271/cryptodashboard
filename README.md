@@ -48,6 +48,7 @@
    ```
 
 4. Open your browser and navigate to `http://localhost:5173`.
+5. CLICK this LINK [crypto-dashboard-psi-three.vercel.app](https://crypto-dashboard-psi-three.vercel.app/)
 
 ## 📜 Available Scripts
 
